@@ -997,6 +997,9 @@ Maintained by [iOS Dev Tools](https://iosdev.tools/). We also send a [weekly too
 
 * [MeterReporter](https://github.com/ChimeHQ/MeterReporter) - Lightweight MetricKit-based diagnostics reporting can relay MetricKit payloads to a backend, which processes and symbolicates them into data that is very close to the MetricKit JSON structure. It adds fields to support the additional features.
 
+* [Mockoon](https://mockoon.com/) - Mockoon is the easiest and quickest way to design and run mock REST APIs.
+
+
 * [Navicat](https://www.navicat.com/) - Navicat is a great tool for managing databases on iOS. It offers general database functions like editing/designing tables, data entry, SQL dumping, and creating/editing users, as well as other useful features such as the Import/Export Wizard, Report Builder, Data Modelling, Query Builder, Code Com
 
 * [netfox](https://github.com/kasketis/netfox) - Netfox is a lightweight, easy to set up, network debugging library that records all executed network requests and provides a log of all requests, including yours. You can shake your device to view a list of all requests and responses, and search and filter to help you find the right request.
@@ -1681,6 +1684,8 @@ This will add a shimmering effect to the view.
 
 * [LocalizeWiz](https://itunes.apple.com/app/localizewiz-continuous-app-localization/id1195713427?mt=12) - LocalizeWiz is a Mac app and platform that helps you to localize your Xcode projects automatically. It monitors strings files in your projects for changes, and updates them to match the locales you specify. There are different plans available, with more features and translations available for purchase.
 
+* [LocalizApp](https://apps.apple.com/us/app/localizapp/id6443473845) - Manage Localizable strings of your app with ease! Translate all the strings with one click!
+
 * [Lokalise](https://lokalise.co/) - Localise lets you upload your source files in any recognised language, and collaborate with your team to translate your app into multiple languages. Once translated, you can use the iOS framework to update your translations without having to submit your app for review.
 
 * [OneSky](http://www.oneskyapp.com/) - OneSky provides an online translation service for apps and websites. They offer a drop-in plugin that lets you update your in-app translations over-the-air, and also offer a Localisation Grader tool to give you an app description or app UI localization grade and suggestions of what languages to target next.
@@ -1963,6 +1968,8 @@ This will add a shimmering effect to the view.
 
 * [AppSight](https://www.appsight.io/) - AppSight is a great resource for finding SDKs and code used by popular apps on the App Store. You can view all the SDKs used to create an app, as well as additional details such as device requirements, requested permissions, URL schemes, and version history. You can also see which apps are currently using
 
+* [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/) - Generate a generic Privacy Policy and Terms & Conditions for your apps
+
 * [Arq](https://www.arqbackup.com/) - Arq backs up your files to a secure cloud account you control, without sacrificing your privacy or control.
 
 * [Bartender](https://www.macbartender.com/) - <p>Bartender is a powerful app for macOS that gives you total control over your menu bar items, making your workflow smoother and faster. With quick reveal, search, custom hotkeys and triggers, and more, Bartender makes taking control of your menu bar easy.</p>
@@ -2033,6 +2040,8 @@ This will add a shimmering effect to the view.
 * [Mackup](https://github.com/lra/mackup) - Mackup backs up your application settings to an online directory and syncs them across all workstations, making restoring them a breeze.
 
 * [Magnet](https://apps.apple.com/app/magnet/id441258766?mt=12) - Magnet is a fast, easy way to arrange windows on your screen for optimal multitasking. You can use keyboard shortcuts or drag to activate it. It supports fullscreen and quarters on all monitors, and runs on both Intel and Apple Silicon machines.
+
+* [Mobile App Landing Page Template](https://github.com/sandoche/Mobile-app-landingpage-template) - Free to use static generated landing page template for your mobile app
 
 * [MonitorControl](https://github.com/MonitorControl/MonitorControl) - MonitorControl allows you to control your external monitor's brightness, contrast and volume. It has quick access controls in your menubar, so you don't have to go to your monitor's settings every time you want to change something.
 
