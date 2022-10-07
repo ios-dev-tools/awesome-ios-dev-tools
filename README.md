@@ -2,9 +2,9 @@
 Awesome iOS Dev Tools
 =====================
 
-A curate list of tools for iOS developers.
+A curated list of tools for iOS developers.
 
-Maintained by [iOS Dev Tools](https://iosdev.tools/). If you find this useful, you might like our [weekly newsletter](https://iosdev.tools/newsletter)
+Maintained by [iOS Dev Tools](https://iosdev.tools/). We also send a [weekly tools newsletter](https://iosdev.tools/newsletter)
 
 # Contents
 
