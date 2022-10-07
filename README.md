@@ -3,7 +3,7 @@ Awesome iOS Dev Tools
 =====================
 
 
-Maintained by [iOS Dev Tools](https://iosdev.tools/)
+Maintained by [iOS Dev Tools](https://iosdev.tools/). If you find this useful, you might like our [weekly newsletter](https://iosdev.tools/newsletter)
 # Table of categories
 
 
