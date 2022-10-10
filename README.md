@@ -1252,10 +1252,6 @@ Crash reports help you fix and improve your apps.
 
 * [Developer Color Picker](http://download.panic.com/picker/) - A colour picker for developers that makes getting colours out of Photoshop/Acorn mock-ups quick and easy.
 
-* [Device Mockups](https://www.devicemockups.com/) - This collection of ready-to-use vector device mockups will help you create product mockups, UI flows, wireframes, illustrations, and more.
-
-* [DevRocket](http://devrocket.uiparade.com/) - DevRocket is a Photoshop panel plugin that speeds up the iOS graphic design workflow by providing instant view templates, a smart icon workflow, native look previews, and one click export.
-
 * [Diverse UI](https://www.diverseui.com/) - Diverse UI provides free user images that more accurately represent the diversity of your user base. You can download them in any size and pick from neutral, female or male. They also have a Sketch plugin that lets you quickly add diverse user images to your designs.
 
 * [Dotted Wireframe Papers](http://www.meganeholstein.com/ios-sketch-paper/) - The PDFs included in this post are great for sketching out new ideas for your iOS apps!
