@@ -1466,6 +1466,8 @@ This will add a shimmering effect to the view.
 
 * [Screensizes.app](https://screensizes.app/?device=iphone) - This tool is a great resource for understanding iPhone resolution history, as well as what resolutions are currently supported on different iOS versions.
 
+* [SF Menu Bar](https://apps.apple.com/us/app/sf-menu-bar/id1615595104?mt=12) - SF Menu Bar is a menu bar app which, with a single click or keyboard shortcut, displays a window for browsing and searching SF Symbols. Select a symbol to copy its name or unicode character to the clipboard, ready to paste into your code or design tool.
+
 * [Silver Flows](http://silverflows.com/) - Silver Flows is a Sketch plugin that lets you quickly create mobile prototypes from within your Sketch document. It's perfect for quick flow-based prototypes, but it also works well with Framer.js to add micro-interactions. Out of the box, you can convert layers to fixed headers and footers
 
 * [Simple Icons](https://simpleicons.org/) - This is a collection of over 130 free SVG icons of popular online brands.
