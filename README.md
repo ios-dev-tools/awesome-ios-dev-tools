@@ -73,19 +73,13 @@ Maintained by [iOS Dev Tools](https://iosdev.tools/). We also send a [weekly too
 
 * [Fabric App](http://apple.co/1LER5d2) - Fabric app is a app that monitors your app and will give you real-time alerts when something is critically affecting it.
 
-* [Fabric App](http://apple.co/1LER5d2) - Developer tool that Ryan wishes he had used sooner is "the built-in Text Shortcuts in macOS/iOS!". His favourite tool at the moment is "SavvyCal", which removes 5-10 nonsense emails a day for planning and rescheduling meetings. His top 5 apps on his Mac/iPhone/
-
 * [Flurry](https://www.flurry.com/) - Flurry helps app developers and marketers understand how people are using their apps. The company has a suite of products that helps developers measure user engagement, app installs, and in-app purchases. Flurry also offers marketing products that help developers acquire new users and retain existing users.
-
-* [Flurry](https://www.flurry.com/) - I really enjoy using <a href="https://apps.apple.com/us/app/bakery-simple-icon-maker/id1575220747">Bakery</a> for creating quick placeholder app icons for development and debugging. It's also really easy to use and has a ton of features
 
 * [Follow Analytics](http://followanalytics.com) - Mobile Marketing Automation, Analytics and Optimization helps global industry leaders grow their businesses with rich, personalized and relevant mobile customer experiences that create high rates of engagement.
 
 * [Heap](https://heap.io/) - Heap gives you a complete view of how your customers interact with your product or site, so you can make informed decisions about where to focus your efforts to improve the user experience.
 
 * [Inapptics](http://inapptics.com/) - Inapptics is a drop-in SDK and online app analytics service that helps you see what your users are doing in your app and how they're navigating. It will also help you detect crashes and replay the exact steps that led to them.
-
-* [Inapptics](http://inapptics.com/) - I'm a Staff iOS Engineer at Turo and I currently work on my weekly newsletter Indie Watch. When I'm not working, I enjoy weightlifting, cooking, and photography. My favorite developer tool is Proxyman and my top 5 apps on my Mac/iPhone/iPad are Strong, YouTube Studio,
 
 * [Infillion](https://infillion.com/) - Welcome to the connected future! We've built a connected commerce platform for the open Internet that seamlessly links advertising, marketing, and CX. The world's best brands rely on Infillion for advanced media solutions – particularly CTV – and technology solutions built on real human behavior. Performant media Interactive video or hyper-
 
@@ -97,7 +91,6 @@ Maintained by [iOS Dev Tools](https://iosdev.tools/). We also send a [weekly too
 
 * [Localytics](http://www.localytics.com/) - Mobile app marketing and analytics software can help you create meaningful mobile experiences that drive customer engagement, retention, and conversions.
 
-* [Localytics](http://www.localytics.com/) - Ahmed is a senior iOS engineer at Zombies, Run, and enjoys working remotely. Ahmed enjoys programming in Swift but also in Ruby and Kotlin in his spare time. His favourite developer tool is Git/GitHub and his top 5 apps on his Mac/iPhone/iPad are Github, Tailscale, Shortcuts
 
 * [Logmatic.io](http://logmatic.io/) - Datadog helps you keep an eye on your apps, tools and services to make sure they're working the way they're supposed to. Try it for free.
 
@@ -474,9 +467,7 @@ Maintained by [iOS Dev Tools](https://iosdev.tools/). We also send a [weekly too
 
 * [CodeBucket](https://itunes.apple.com/us/app/codebucket-bitbucket-for-ios/id551531422?mt=8) - CodeBucket is an app for browsing and maintaining your Bitbucket repositories on your iOS device. It has features like viewing repository events, issues, and change sets, browsing source directories and files, viewing file diffs from previous commits, viewing and commenting on pull requests, and more. Bitbucket is a great
 
-* [CodeEdit](https://github.com/CodeEditApp/CodeEdit) - We want to create an IDE experience that feels like it was designed and developed by Apple, while staying lightweight. CodeEdit should be open source, free to use, and supported by the community.
-
-* [CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit is a macOS native app designed to look and feel like an Apple product. It offers features similar to VS Code, but with lighter weight. It's currently in development and needs community support.
+* [CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit It offers features similar to VS Code, but with lighter weight.
 
 * [CodeHub](https://itunes.apple.com/us/app/codehub-github-for-ios/id707173885?mt=8) - CodeHub is an iOS app that helps you keep track of your GitHub repositories. It has features like viewing events, issues, and change sets, browsing source directories and files, viewing file diffs from previous commits, and more. You can also explore other GitHub open source repositories.
 
@@ -1014,8 +1005,6 @@ Maintained by [iOS Dev Tools](https://iosdev.tools/). We also send a [weekly too
 
 * [Pulse Pro](https://github.com/kean/Pulse) - With Pulse Pro, you can view your logs in real-time from any device. This is a free professional grade app that is created by Kean.
 
-* [Pulse Pro](https://github.com/kean/PulsePro) - Pulse Pro is a professional macOS app designed to be flexible, comprehensive, and precise when viewing logs. It offers table and text modes, filters, scroller markers, an all-new network inspector, JSON filters, and more. With remote logging enabled, there are three easy steps to using it: launch the app,
-
 * [Push Hero](https://apps.apple.com/app/push-hero-test-notifications/id1499227284?mt=12) - Push Hero is a powerful push notification testing tool that supports latest APNS specification with intuitive explanation and validation.
 
 * [Pushtry](http://pushtry.com/) - Pushtry is a free web service for testing push notifications with your iOS or Android app. You can send push notifications using Apple Push Notification Service or Google Cloud Messaging service without requiring you to run your own backend. Push notifications can be sent as plain text or complete JSON so you can test all remote notification features
@@ -1076,7 +1065,7 @@ Crash reports help you fix and improve your apps.
 
 * [BetaFill](http://junecloud.com/software/safari/betafill.html) - BetaFill is a Safari extension for iOS developers that saves the information needed to fill out the Beta Information section of a TestFlight submission automatically.
 
-* [Bitrise](https://www.bitrise.io/) - Bitrise is a great tool that helps you to manage your iOS development process by integrating with a variety of services.
+* [Bitrise](https://www.bitrise.io/) - Bitrise is the mobile DevOps platform. 
 
 * [boarding](https://github.com/fastlane/boarding) - With <a href="https://boarding.io/">boarding</a> you can easily create a signup page for beta testers to get started with your app.
 
@@ -1367,14 +1356,7 @@ Crash reports help you fix and improve your apps.
 
 * [LiveView](https://itunes.apple.com/gb/app/liveview/id301069270?mt=8) - LiveView is a free remote screen viewing application that allows you to stream part of your Mac's screen to an iOS device. It's really useful for previewing interface designs or running simple simulations or demos, and unlike similar applications, LiveView will stream any section of your screen so doesn't require compatibility with any
 
-* [LoadingShimmer](https://github.com/jogendra/LoadingShimmer) - To add a shimmering effect to any view, use the following code:
-
-
-
-View.backgroundColor = new Color(0x000000, 0x000000, 0x000000);
-View.shimmer = new Shimmer();
-
-This will add a shimmering effect to the view.
+* [LoadingShimmer](https://github.com/jogendra/LoadingShimmer) - Add a shimmering effect to any view.
 
 * [Lona](https://github.com/Lona/Lona) - Airbnb has a collection of tools for building design systems and using them to generate cross-platform UI code. Lona Studio provides a graphical interface for working with JSON files, and Lona Compiler converts them to UI code for various targets. Currently only React Native is supported, but more platforms are planned.
 
@@ -1401,8 +1383,6 @@ This will add a shimmering effect to the view.
 * [Mockup Builder](http://mockupbuilder.com/) - prototyping software that helps you quickly sketch your ideas and share them with others.
 
 * [Mockup World](http://www.mockupworld.co/) - Free photo-realistic device mockups to help promote your products.
-
-* [Mockup World](https://www.mockupworld.co/) - If you're looking to create a beautiful app presentation, Mockup World is a great place to start. There are plenty of free resources to help you create the look you're going for.
 
 * [Neonto](http://neonto.com/) - Neonto is a design tool that lets you create app prototypes and export real native code to use in Xcode. This makes it a great choice for designers who want to create realistic app designs, and for developers who want to create code that is ready to use right away. Neonto is free for non
 
@@ -1744,7 +1724,7 @@ This will add a shimmering effect to the view.
 
 * [SimpleTexting](https://simpletexting.com/) - SMS marketing is an effective way to increase customer loyalty or drive demand. Sign up for a free trial today!
 
-* [Stream](https://getstream.io/chat/sdk) - Stream lets you build real-time chat messaging in record time, with a free/gratis/complimentary account for Makers. Get started today!
+* [Stream](https://getstream.io/chat/sdk) - Stream lets you build real-time chat messaging and streams in record time, with a free account for Makers.
 
 * [Tatango](http://www.tatango.com/) - Tatango is a text message marketing software provider that provides support and expertise to marketers looking to launch successful text message marketing campaigns.
 
