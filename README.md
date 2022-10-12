@@ -55,8 +55,6 @@ Maintained by [iOS Dev Tools](https://iosdev.tools/). We also send a [weekly too
 
 * [appFigures](https://appfigures.com/) - ASO tools, analytics, and app intelligence to help you optimize for more organic downloads! App Analytics - Track performance, track revenue, and track store performance for all of your apps in one place to see trends and make more informed decisions. Tools for ASO - Get more visibility into keyword ranks and identify new
 
-* [Appsee](http://www.appsee.com/) - I use the Nova app by Panic to write syntax-highlighted text. I'm grateful for the improved workflow I gained from using Fork. My top 5 apps on my Macs are Sketch, Tweetbot, Things, Fork, and Proxyman.
-
 * [Appsee](http://www.appsee.com/) - Appsee is a powerful visual analytics platform that allows developers to see how users interact with their apps and track down and fix issues quickly. It's a little expensive but well worth it for big companies and experienced developers.
 
 * [apptopia](https://apptopia.com/) - Radar gives you essential competitive and market insights into the app economy, so you can stay ahead of the competition. With Core Performance Suite, you can get key performance intelligence for every single mobile app and publisher in the world. Market Explorer lets you track and analyze competitors in one place, while Alert Builder lets
