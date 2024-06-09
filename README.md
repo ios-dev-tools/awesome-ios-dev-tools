@@ -1969,7 +1969,7 @@ Crash reports help you fix and improve your apps.
 
 * [Craft](https://www.craft.do/) - Craft is a digital note taking app that is built for iOS and macOS. It is fast and native, and helps you think, write and communicate better.
 
-* [Deeplnkr](https://apps.apple.com/us/app/deeplinkr/id1586244217?mt=12) - DeepLinkr is a tool that allows you to manage all your deep and universal links in one place. This is useful for testing your links against simulators and sharing with your team.
+* [getuniversal.link](https://getuniversal.link/) - getuniversal.link is a website that allows you to manage all your deep and universal links in one place. This is useful for testing your links against the iOS / iPadOS Simulators and sharing them with your team.
 
 * [DevCleaner](https://github.com/vashpan/xcode-dev-cleaner) - This tool is helpful to reclaim storage used by Xcode, which can be used for other purposes if necessary.
 
