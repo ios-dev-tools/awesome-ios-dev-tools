@@ -982,6 +982,8 @@ Maintained by [iOS Dev Tools](https://iosdev.tools/). We also send a [weekly too
 
 * [LifetimeTracker](https://github.com/krzysztofzablocki/LifetimeTracker) - LifetimeTracker is a debugging tool that helps you identify retain cycles and memory issues while running your app. It requires just one line of code to integrate into your app, and it'll give you a floating bar that lets you know when it identifies an issue. Tapping the info button gives you full details of the issue including
 
+* [LogDog](https://log.dog) - LogDog is a remote debugging/logging sdk (iOS and Android) with a web ui. Captures all logs and requests in real-time and allows to intercept them. 
+
 * [Logger for Shortcuts](https://apps.apple.com/app/logger-for-shortcuts/id1611554653?l=en) - Logger is a new developer console that makes it easier to create complex shortcuts. You can see the messages posted to the console as your shortcut runs, without needing Quick Look actions. You can also filter the output by category, device, date, contents, search or tags. All your messages are synced securely between your
 
 * [MeterReporter](https://github.com/ChimeHQ/MeterReporter) - Lightweight MetricKit-based diagnostics reporting can relay MetricKit payloads to a backend, which processes and symbolicates them into data that is very close to the MetricKit JSON structure. It adds fields to support the additional features.
