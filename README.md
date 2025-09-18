@@ -630,7 +630,7 @@ Maintained by [iOS Dev Tools](https://iosdev.tools/). We also send a [weekly too
 
 * [Magic](https://magic.link/) - The Magic SDK offers a simple and secure way for new crypto users to get started, with features like passwordless login and external wallet support.
 
-* [manatee works](https://manateeworks.com/) - Barcode scanning is a critical task in many industries, and the Cognex Mobile Barcode SDK offers simple, accurate, and fast solutions for mobile apps. Our SDK is supported by the most powerful cross-platform app development tools, so you can build the best mobile apps possible.
+* [DBR](https://www.dynamsoft.com/barcode-reader/sdk-mobile/) - Dynamsoft Barcode Reader is a robust barcode scanning SDK that delivers fast & reliable barcode scanning across platforms. It integrates seamlessly with leading cross-platform frameworks, enabling developers to create a reliable, high-performance app for any industry.
 
 * [Marvin](https://github.com/zenangst/MarvinXcode) - Marvin is a Xcode plugin that provides a large collection of text selection, duplication and deletion commands. These commands are useful for cleaning up code or text, and Marvin will also clean up whitespace on save.
 
