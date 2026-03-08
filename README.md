@@ -1105,7 +1105,7 @@ Crash reports help you fix and improve your apps.
 
 * [ios-uploader](https://github.com/simonnilsson/ios-uploader) - This tool is easy to use and can be used in CI/CD flows for example.
 
-* [Itsyconnect](https://github.com/nickustinov/itsyconnect-macos) - Itsyconnect is a self-hosted App Store Connect dashboard for macOS. It provides analytics, review management with AI-powered replies, TestFlight build and tester management, screenshot uploads, and store listing editing – all from a native Electron app backed by SQLite caching.
+* [Itsyconnect](https://github.com/nickustinov/itsyconnect-macos) - Itsyconnect is a self-hosted App Store Connect dashboard for macOS. It provides analytics, review management with AI-powered replies, TestFlight build and tester management, screenshot uploads, and store listing editing.
 
 * [match](https://docs.fastlane.tools/actions/match/) - Match is a tool that helps you sync your certificates and profiles across your team using git, preventing code signing issues.
 
