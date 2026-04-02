@@ -2102,6 +2102,7 @@ Crash reports help you fix and improve your apps.
 * [XcLauncher](https://apps.apple.com/us/app/id1234625785) - XcLauncher is a menu bar app that provides instant access to your favorite projects, including Xcode projects, workspaces, playgrounds, and Swift files. You can create bookmarks for your projects, and view Xcode's recent files, showing only files that match your bookmarks. You can also
 
 * [ZenHub](https://www.zenhub.io/) - ZenHub is a project management suite that works natively within GitHub. It enhances your workflow with features built specifically for startups, fast-moving engineering teams, and the open-source community. The product is a Chrome extension that injects advanced functionality including real-time drag-and-drop Issue Task Boards, peer feedback
+- [submission-site-discovery](https://github.com/SeeleAI/submission-site-discovery) - Automated discovery of product submission sites, launch directories, and distribution channels for indie hackers.
 # Support<a id='Support'></a>
 
 
