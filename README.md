@@ -282,6 +282,9 @@ Maintained by [iOS Dev Tools](https://iosdev.tools/). We also send a [weekly too
 * [URLgenius](https://app.urlgeni.us/) - URLgenius lets marketers create deep links and QR codes for any app - no SDK required. This makes it easy to link into apps across different marketing channels, and there's no need to build or track device profiles - making it great for budgets on the tight side.
 
 * [WatchScreenshotMagic](https://github.com/Imperiopolis/WatchScreenshotMagic) - WatchScreenshotMagic is an app for creating Apple Watch screenshots that are automatically cleaned up and ready for submission to the App Store. It provides you with a Glance or Notification screenshot to work with, and will cleverly use a colour mask on black content to overlay the screenshot on the blurred watch face.
+
+* [Shotlingo](https://shotlingo.com) - Shotlingo is a web-based App Store screenshot designer and localizer. Build screenshot templates with device mockups and text overlays, then use AI to translate them into 40+ languages — the tool handles text expansion per language, RTL mirroring, and platform-appropriate fonts automatically. Exports ready-to-upload bundles for App Store Connect and Google Play Console. Free tier available.
+
 # Backends<a id='Backends'></a>
 
 
@@ -1675,6 +1678,9 @@ Crash reports help you fix and improve your apps.
 * [Smartling](https://www.smartling.com/) - The Jargon SDK provides localized text translation in the context of your app. The Jargon Dashboard makes it easy to source translations and review them in context.
 
 * [Smooth Localize](http://smoothlocalize.com/) - Translation service that is easy to use and affordable.
+
+* [Shotlingo](https://shotlingo.com) - Web-based tool for localizing App Store and Google Play screenshots to 40+ languages with AI. Handles text expansion per language, RTL mirroring for Arabic/Hebrew/Persian/Urdu, and platform-appropriate fonts. Free tier available, exports ready-to-upload bundles for App Store Connect and Google Play Console.
+
 # Machine Learning<a id='MachineLearning'></a>
 
 
