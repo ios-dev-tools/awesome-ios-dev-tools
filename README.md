@@ -2023,6 +2023,8 @@ Crash reports help you fix and improve your apps.
 
 * [Navicat](https://www.navicat.com/) - The Navicat database administration tool is perfect for managing databases on iOS devices. It offers a wide range of features to make data entry, SQL dumping, and database design easier than ever. The free trial allows you to test out the software before making a purchase.
 
+* [Onepilot](https://onepilotapp.com) - iOS and iPadOS SSH client for running Claude Code, Codex CLI, and other terminal coding agents on a remote machine.
+
 * [Paste](https://pasteapp.io/) - Paste lets you copy and paste content from any device easily. It is like a time machine for your clipboard that lets you instantly find any text, link, image, or file you've ever copied.
 
 * [Pastebot](https://apps.apple.com/app/pastebot/id1179623856?mt=12) - If you're a heavy user of copy &amp; paste, Pastebot is a must-have tool. It saves your clippings for quick recall, has powerful filters and is always running in the background with iCloud sync.
