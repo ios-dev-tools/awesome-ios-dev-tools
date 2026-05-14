@@ -165,6 +165,8 @@ Maintained by [iOS Dev Tools](https://iosdev.tools/). We also send a [weekly too
 
 * [App Store Screenshot](https://www.appstorescreenshot.com/) - App Store Screenshot is a simple online tool that lets you generate professional looking screenshots for your app. You can pick a background colour, choose from ten different device images, and add text with custom font and styling before previewing and downloading ready to be upload to the App Store.
 
+* [Apple AppStore Screens Generator](https://github.com/jawwadfirdousi/apple-appstore-screens-generator) - Open-source screenshot generator for creating App Store-ready screenshots quickly.
+
 * [AppToolkit](https://apptoolkit.io/) - AppToolkit is a collection of tools designed to make life easier for app developers and designers. The tools include a screenshot builder, website builder, review monitor, and analytics tool, as well as cloud configurator.
 
 * [AppTweak](https://www.apptweak.com/) - AppTweak is a tool that helps you fuel growth for your apps and games by providing actionable insights in a simple interface. ASO Intelligence, Ad Intelligence, App Intelligence, and Market Intelligence help you get your app at the top of app store search results, identify new growth opportunities, and improve your app
