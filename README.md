@@ -229,6 +229,8 @@ Maintained by [iOS Dev Tools](https://iosdev.tools/). We also send a [weekly too
 
 * [RankWatch](https://apps.apple.com/app/rankwatch/id1042797574) - RankWatch is a super simple Apple Watch app that lets you keep track of your app's App Store ranking from a complication on your watch face.
 
+* [Lumox](https://lumox.app/) - QuickTime Alternative: Create stunning product demos and tutorials for your mobile apps. Mirror your iPhone to your Mac.
+
 * [Recordit](https://recordit.co/) - This app lets you easily create quick screencasts of what you are doing on your screen.
 
 * [Reflector](https://www.airsquirrels.com/reflector) - Turns your computer into a AirPlay receiver so you can wirelessly mirror your iPad, iPhone or iPod Touch screen to any Mac or PC. Reflector allows you to make recordings of your iOS device, including realistic looking frames, so it's great for making walkthroughs of demo videos for your apps.
