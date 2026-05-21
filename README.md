@@ -231,6 +231,8 @@ Maintained by [iOS Dev Tools](https://iosdev.tools/). We also send a [weekly too
 
 * [Recordit](https://recordit.co/) - This app lets you easily create quick screencasts of what you are doing on your screen.
 
+* [Lumox](https://lumox.app/) - QuickTime Alternative: Create stunning product demos and tutorials for your mobile apps. Mirror your iPhone to your Mac.
+
 * [Reflector](https://www.airsquirrels.com/reflector) - Turns your computer into a AirPlay receiver so you can wirelessly mirror your iPad, iPhone or iPod Touch screen to any Mac or PC. Reflector allows you to make recordings of your iOS device, including realistic looking frames, so it's great for making walkthroughs of demo videos for your apps.
 
 * [ReviewBot](https://reviewbot.io/) - ReviewBot lets you monitor your Android and iOS apps so you can see when new reviews are posted. It's free to use for one app, but paid plans let you monitor more and also give you quick reply links for Android app reviews.
