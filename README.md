@@ -151,6 +151,8 @@ Maintained by [iOS Dev Tools](https://iosdev.tools/). We also send a [weekly too
 
 * [App Radar](https://appradar.com/) - App Radar is an AI-based App Store Optimisation tool that helps you improve your store listings and discoverability. It provides daily/weekly reports and rankings, as well as Slack integration.
 
+
+* [App Store Rejection Codes](https://shotlingo.com/tools/app-store-rejection-codes) - Free reference listing every Apple App Store review rejection code (Guideline 2.1, 3.1.1, 4.2, 5.1.1 and more) with plain-English descriptions, step-by-step fixes, and machine-readable JSON/CSV export. No signup required.
 * [AppReviewMe](http://appreview.me/) - AppReviewMe is a platform that helps your free app get more reviews in the App Store. You have to earn karma points by giving reviews to other developers' apps. This should be a better way of getting more honest reviews from your users, which can help improve your app's exposure and downloads.
 
 * [AppScreens](https://appscreens.com/) - AppScreens is a platform that allows you to generate screenshots for your iOS and Android apps in a matter of minutes. With a responsive design, AppScreens exports all required screenshot sizes for apps on the Apple App Store and Google Play Store.
