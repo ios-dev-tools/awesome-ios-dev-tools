@@ -54,6 +54,7 @@ Maintained by [iOS Dev Tools](https://iosdev.tools/). We also send a [weekly too
 * [Airship](https://www.airship.com/) - Airship helps businesses create powerful app experiences that increase retention. Our platform provides robust yet easily adaptable in-app experiences, which enhances customer satisfaction and growth. We also use data-led approach to help businesses optimize their business goals. Finally, we provide trust and performance to scale your business.
 
 * [appFigures](https://appfigures.com/) - ASO tools, analytics, and app intelligence to help you optimize for more organic downloads! App Analytics - Track performance, track revenue, and track store performance for all of your apps in one place to see trends and make more informed decisions. Tools for ASO - Get more visibility into keyword ranks and identify new
+* [GetAppNiche](https://getappniche.com) - App Store intelligence for indie iOS founders with revenue estimates, downloads, ASO keywords, ads, and review monitoring.
 
 * [Appsee](http://www.appsee.com/) - Appsee is a powerful visual analytics platform that allows developers to see how users interact with their apps and track down and fix issues quickly. It's a little expensive but well worth it for big companies and experienced developers.
 
