@@ -195,6 +195,8 @@ Maintained by [iOS Dev Tools](https://iosdev.tools/). We also send a [weekly too
 
 * [FrameIt](https://docs.fastlane.tools/actions/frameit/) - FrameIt is a command utility that quickly adds device frames around your iOS screenshots. You just have to navigate to your folder of screenshots and run 'frameit'.
 
+* [GetAppNiche](https://getappniche.com) - App Store intelligence for indie iOS developers, including revenue estimates, ASO keywords, competitor ads, and reviews.
+
 * [Gummicube](https://www.gummicube.com/) - Gummicube is the world's #1 ASO company and offers unified agency services and industry-leading proprietary ASO technologies to help you increase store visibility and conversion rates.
 
 * [ImpressKit](https://impresskit.net/) - Hosted Press Kit - Create a press kit in minutes that looks great on all devices. Includes guides and optimized for mobile.
