@@ -133,6 +133,8 @@ Maintained by [iOS Dev Tools](https://iosdev.tools/). We also send a [weekly too
 
 * [AppCodes](https://www.appcodes.com/) - AppCodes is an online ASO tool that helps you check and improve your app's visibility in the App Store. You can track your competitors' press mentions and keywords, as well as your own app's keywords. You also get access to tools that can help you improve your ranking with your next app update.
 
+* [App Doodler](https://doodler.copymyui.com/) - Free, open-source generator for multilingual App Store screenshots with reusable layouts, translation imports, and iPhone/iPad exports.
+
 * [appFigures](https://appfigures.com/) - ASO tools, analytics, and app intelligence help you optimize for more organic downloads, track performance, and study the competition.
 
 * [AppFollow](https://appfollow.io/) - The needs of your customers in the mobile market, unlocked saves time dealing with app review management to increase your efficiency. The ratings and reviews dashboard unifies all user reviews and makes it easy to reply to all of them. Automation, including auto-translation, auto-tags, and auto-replies
