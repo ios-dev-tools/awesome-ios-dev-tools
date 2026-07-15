@@ -131,6 +131,8 @@ Maintained by [iOS Dev Tools](https://iosdev.tools/). We also send a [weekly too
 
 * [AppBot](https://appbot.co/) - Appbot provides world-class review and ratings monitoring, replies and analysis which saves teams hours every week. Appbot supports all major app stores and has automatic translations to English.
 
+* [Review2Idea](https://review2idea.com/en/free-app-review-analysis-tool) - Analyze App Store and Google Play reviews to cluster recurring complaints, surface product gaps, and turn review evidence into product opportunities.
+
 * [AppCodes](https://www.appcodes.com/) - AppCodes is an online ASO tool that helps you check and improve your app's visibility in the App Store. You can track your competitors' press mentions and keywords, as well as your own app's keywords. You also get access to tools that can help you improve your ranking with your next app update.
 
 * [appFigures](https://appfigures.com/) - ASO tools, analytics, and app intelligence help you optimize for more organic downloads, track performance, and study the competition.
