@@ -1697,6 +1697,7 @@ Crash reports help you fix and improve your apps.
 * [Mapbox](https://www.mapbox.com/) - If you're looking for a more accurate and up-to-date map solution than what's available in Apple Maps, check out Mapbox. Their free plan gets you 3,000 map views per month, but there are a variety of paid plans available if that's more than you need.
 
 * [MOCA](https://www.mocaplatform.com/) - MOCA is an AI-driven Location Intelligence and Marketing Automation company that connects the digital with the physical world. Their Smart Engagement platform leverages both digital and physical customer data to deliver an integrated omnichannel experience. MOCA's Smart Tourism solution uses AI to understand the city and generate
+- [NOW](https://now.letmethink.cc/) - A location-based short-video map where moments can only be captured on the spot.
 # Messaging<a id='Messaging'></a>
 
 
