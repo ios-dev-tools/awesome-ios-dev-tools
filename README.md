@@ -126,6 +126,8 @@ Maintained by [iOS Dev Tools](https://iosdev.tools/). We also send a [weekly too
 
 * [UXCam](https://uxcam.com/) - UXCam is an experience analytics solution that helps enterprises understand how users are interacting with their mobile apps.
 
+* [Zoho Apptics](https://zoho.com/apptics/) - Zoho Apptics is an app analytics platform for monitoring performance, analyzing user behavior, collecting feedback, and managing store reviews. Supports iOS, Android, macOS, watchOS, tvOS, Flutter, React Native, Kotlin Multiplatform,JavaScript, and more.
+
 # App Store Optimization<a id='AppStoreOptimization'></a>
 
 
