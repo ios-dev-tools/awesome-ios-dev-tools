@@ -225,6 +225,8 @@ Maintained by [iOS Dev Tools](https://iosdev.tools/). We also send a [weekly too
 
 * [Preview Video Converter](https://apps.apple.com/app/preview-video-converter/id1137451860) - App Preview Video Converter takes the hassle out of producing videos for use as App Previews on the iOS and Mac App Stores. Having a video demonstrating your app is a great way of improving your listing, but if you've ever tried to upload a video to App Store Connect you will have found that there's a very
 
+* [Proffer](https://proffer.codes/for-developers) - Distribute App Store offer codes and Google Play promo codes to users through a single shareable link. One code per user, enforced server-side, every claim tracked - a simple way to boost installs and reviews. First campaign free.
+
 * [Promotee](https://www.netwalkapps.com/app/promotee) - Promotee is a Mac application that lets you create pixel-perfect and professional looking promo artwork for iOS, Mac and Android apps. Just drop a screenshot from your app onto a template and our graphics engine will blend it into the template to generate a gorgeous looking result. iPad, iPhone (including iPhone 6 and iPhone 6
 
 * [RankWatch](https://apps.apple.com/app/rankwatch/id1042797574) - RankWatch is a super simple Apple Watch app that lets you keep track of your app's App Store ranking from a complication on your watch face.
