@@ -1133,6 +1133,8 @@ Crash reports help you fix and improve your apps.
 
 * [Tart](https://github.com/cirruslabs/tart) - Tart is a virtualization toolset that is designed for CI engineers. It has near-native performance, uses Apple's own Virtualization.Framework, and can be used to automate VM creation. Tart also has CI integration so that it can be used for continuous integration.
 
+* [UDID Tools](https://www.udid.tools/) - UDID Tools is a free, open-source web utility for retrieving an iPhone or iPad UDID in Safari for ad hoc device registration, beta testing, and provisioning workflows without iTunes, Xcode, or a USB cable.
+
 * [Visual Studio App Center](https://appcenter.ms/) - Microsoft's CI solution, Visual Studio App Center, is perfect for Swift and Objective-C iOS apps, React Native, Xamarin, macOS, and tvOS. It integrates with GitHub, Bitbucket, and VSTS, and will automatically build and test your app on real hosted iOS and Android
 
 * [WatchBuild](https://github.com/fastlane/watchbuild) - WatchBuild is a simple standalone tool that keeps an eye on your build submission to iTunes Connect, so you don't have to worry about forgetting. If the build is ready, you'll get a notification.
