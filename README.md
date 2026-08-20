@@ -47,6 +47,8 @@ Maintained by [iOS Dev Tools](https://iosdev.tools/). We also send a [weekly too
 # Analytics<a id='Analytics'></a>
 
 
+* [AdMapix](https://www.admapix.com/) - AdMapix provides ad intelligence and app-market research for mobile growth teams, combining indexed competitor creative search with app rankings and directional download and revenue estimates by market.
+
 * [Adjust](https://www.adjust.com/) - Adjust is the mobile marketing platform trusted by marketers looking to grow their app business. With insights across the customer lifecycle, automation, and data protections, Adjust helps you grow your business at any stage.
 
 * [Adobe Analytics](https://business.adobe.com/tr/products/analytics/adobe-analytics.html) - Adobe is a software company that offers a variety of tools to analyse data from anywhere in the customer journey. Their tools include web analytics, marketing analytics, attribution, and predictive analytics. They believe that data is key to making better decisions and that by using AI and machine learning they can make these tasks easier.
