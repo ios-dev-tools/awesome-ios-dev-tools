@@ -243,6 +243,8 @@ Maintained by [iOS Dev Tools](https://iosdev.tools/). We also send a [weekly too
 
 * [Sachsen](http://ccll1.net/sachsen) - Sachsen is a standalone app that lets you view App Store reviews. It has a filter by read or favourited state, user rating, and app version. You can also make notes for a specific review, share them, or compare ratings across app versions. Sachsen offers a one-click translation service
 
+* [Screenies](https://screenies.app/) - Screenies is an AI App Store screenshot generator. Upload raw screens from your app and it designs a complete screenshot set in every required device size, with headlines, device frames, and localization into other languages. It also includes an MCP server, so coding agents like Claude Code and Cursor can generate and update screenshot sets directly.
+
 * [SearchAds](https://searchads.com/) - Apple Search Ads are a great way to advertise your products and services on the App Store, but you need to make sure your campaigns are optimized for success. SearchAds.com is a tailor-made platform that helps you scale your campaigns and be at the top of App Store search. With our partner integration, you
 
 * [Sensor Tower](https://sensortower.com/) - Navigate the digital landscape with Sensor Tower’s next-generation, market-leading digital analytics platform that engages with the modern digital consumer to uncover opportunities for growth. Store Intelligence identifies rising market trends, Usage Intelligence assesses critical user engagement, Ad Intelligence optimizes ad strategy, and IDFA-free
