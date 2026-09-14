@@ -141,6 +141,8 @@ Maintained by [iOS Dev Tools](https://iosdev.tools/). We also send a [weekly too
 
 * [App Launch Guide](https://github.com/adamwulf/app-launch-guide) - The App Launch Guide is an open source guide that covers everything you need to know to launch a successful app. It is divided into a product development schedule and a marketing schedule, so you can plan for both simultaneously.
 
+* [appdesigns](https://appdesigns.click/) - appdesigns is a free, browser-based App Store and Google Play screenshot generator. Drop your screenshots into real iPhone, iPad, Mac and Apple Watch frames, add a headline and a background, and export a set at the exact sizes App Store Connect and Google Play accept. Unlimited exports, no watermark, no account required.
+
 * [AppLaunchpad](https://theapplaunchpad.com/) - The App Launchpad app screenshot maker provides a quick and easy way to create beautiful customized screenshots for your App Store and Google Play page. With pre-designed layouts and devices, all you need to do is select a template, upload your screenshot, and add your message. You can also style the caption's
 
 * [Apple Media Services](https://tools.applemediaservices.com/app-store) - This tool by Apple lets you create marketing assets for your app easily using different image styles, sizes, and icons. You can also generate links and badges.
