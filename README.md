@@ -159,6 +159,8 @@ Maintained by [iOS Dev Tools](https://iosdev.tools/). We also send a [weekly too
 
 * [App Store Description Previewer](https://bjango.com/articles/appstoredescriptionpreviewer) - This app description previewer will help you see where your app description will be truncated in the App Store.
 
+* [App Store Localizer](https://asolocalization.com/) - Localize App Store / Play Store screenshots and metadata with AI; free OSS available.
+
 * [AppStoreMetrix](https://appstoremetrix.com/) - AppStoreMetrix is a Google Sheets add-on that helps you automatically import App Store data from iTunes Connect and Google Play. It offers you a simple way to download your app statistics for in-app purchases, app installs, earnings, crashes and more, on a daily, weekly or monthly basis.
 
 * [App Store Review Guidelines History](https://www.appstorereviewguidelineshistory.com/) - Shape is an app development agency in Copenhagen and Zurich that refers to the App Store Review Guidelines all the time. They have created this website for themselves and their clients to help them spot the changes.
