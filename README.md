@@ -175,6 +175,8 @@ Maintained by [iOS Dev Tools](https://iosdev.tools/). We also send a [weekly too
 
 * [ASO by 2stable](https://aso.2stable.com/) - ASO is a great way to track your app's rankings and see what keywords are driving traffic to your app. There are no monthly fees, and the Free tier offers enough features to get started.
 
+* [ASOScan](https://asoscan.com/) - ASOScan is an App Store Optimization platform for iOS and Android. It covers per-market keyword volume and difficulty, reverse-lookup keyword spy and competitor gap analysis, rank tracking 200 positions deep per country, competitor listing-change alerts with an exact before and after, and a coverage simulator that forecasts which keywords a metadata edit would win before you publish it.
+
 * [Automatic App Landing Page](https://github.com/emilbaehr/automatic-app-landing-page) - You can quickly create and deploy an iOS app landing page on GitHub Pages with this repo. This site is designed for super easy set up, and you can customise it in _config.yml (no HTML/CSS). You can also keep a changelog and privacy policy, and your site will
 
 * [Average App Store Review Times](https://appreviewtimes.com/) - This site aggregated and averaged crowdsourced data on the length of time that app review for the iOS and Mac App Store took. From the very start of the App Store, until May 2016 the length of an app review was often very lengthy, causing problems for developers trying to schedule releases or set the expectations of their clients
