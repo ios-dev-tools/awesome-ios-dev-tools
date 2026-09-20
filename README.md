@@ -1876,6 +1876,8 @@ Crash reports help you fix and improve your apps.
 
 * [Cloud Vision](https://cloud.google.com/vision/) - Cloud Vision is a powerful image analysis API from Google that can quickly identify objects and emotions in images.
 
+* [DevPeek](https://devpeek.ypgao.com/) - DevPeek is a free HTTP(S) debugging proxy for macOS and Windows. It captures traffic, mocks requests and responses, decrypts parameters automatically, and replays requests.
+
 * [Fetcher](https://itunes.apple.com/gb/app/fetcher/id440113616?mt=12) - This is a Mac app that supports every HTTP request method with custom parameters, custom body and custom headers. It's useful for testing APIs and feeds you use in your app.
 
 * [HaTTiP](https://itunes.apple.com/us/app/hattip/id828152861?ls=1&mt=12) - HaTTiP is a popular HTTP client for Mac that supports custom headers and URL parameters, as well as pre-processing scripts that can dynamically modify the outgoing request.
