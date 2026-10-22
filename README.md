@@ -155,6 +155,8 @@ Maintained by [iOS Dev Tools](https://iosdev.tools/). We also send a [weekly too
 
 * [AppScreens](https://appscreens.com/) - AppScreens is a platform that allows you to generate screenshots for your iOS and Android apps in a matter of minutes. With a responsive design, AppScreens exports all required screenshot sizes for apps on the Apple App Store and Google Play Store.
 
+* [AppScreen](https://appscreen.pro) - A browser editor for App Store and Google Play screenshots, with iPhone, iPad and Android frames. Free tier; Pro is a one-time $9.
+
 * [AppStop](http://app-stop.appspot.com/) - Create a landing page for your iPhone app using the info you've already submitted to the App Store. Just enter an App Store URL below, and I'll generate a customizable landing page for your app, that you can fork on GitHub and deploy on github.io or your own domain.
 
 * [App Store Description Previewer](https://bjango.com/articles/appstoredescriptionpreviewer) - This app description previewer will help you see where your app description will be truncated in the App Store.
