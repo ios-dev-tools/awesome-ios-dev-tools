@@ -1372,7 +1372,7 @@ Crash reports help you fix and improve your apps.
 
 * [MoarFonts](http://pitaya.ch/moarfonts/) - MoarFonts is a small utility that makes custom fonts available in Interface Builder.
 
-* [Mobbin](https://mobbin.design/browse/ios/apps) - We provide a library of 50,000+ mobile app screenshots to help product designers find inspiration and references quickly.
+* [Mobbin](https://mobbin.com/) - A library of real screens and flows from iOS and web apps, for finding UI patterns and references quickly. Also available to AI coding agents via the Mobbin MCP server.
 
 * [MockFlow](https://mockflow.com/) - MockFlow is the world's best tool for planning user interfaces and user flows. It makes it easy to visualize user interfaces and create user flows, which can then be used to document styles and approve designs.
 
