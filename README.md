@@ -858,7 +858,7 @@ Maintained by [iOS Dev Tools](https://iosdev.tools/). We also send a [weekly too
 
 * [TrustKit](https://github.com/datatheorem/TrustKit) - TrustKit is an open source framework that makes it easy to deploy SSL public key pinning and reporting in any iOS 12+, macOS 10.13+, tvOS 12+ or watchOS 4+ App. It supports both Swift and Objective-C Apps. TrustKit provides the following features:
 
-* [Tuist](https://tuist.io/) - Tuist takes care of the complex things, so you can focus on building great apps. With simple language, you describe your project the way you think about it. Reusability is guaranteed, and you can focus on what's important: creating great apps.
+* [Tuist](https://tuist.dev/) - Build infrastructure for faster, more reliable build and test workflows across developers, CI, and coding agents; on Apple it also generates Xcode projects.
 
 * [Typhoon](https://github.com/appsquickly/typhoon) - Typhoon is a dependency injection framework for Objective-C and Swift that aims to make it easier to test or swap out components of your app. It features support for circular dependencies and injection of view controllers, storyboard integration, support for both initializer and property injection, a very small memory and CPU footprint,
 
