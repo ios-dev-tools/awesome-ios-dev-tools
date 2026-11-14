@@ -161,6 +161,8 @@ Maintained by [iOS Dev Tools](https://iosdev.tools/). We also send a [weekly too
 
 * [AppStoreMetrix](https://appstoremetrix.com/) - AppStoreMetrix is a Google Sheets add-on that helps you automatically import App Store data from iTunes Connect and Google Play. It offers you a simple way to download your app statistics for in-app purchases, app installs, earnings, crashes and more, on a daily, weekly or monthly basis.
 
+* [App Store Localizer](https://asolocalization.com/) - Paste a public App Store URL and get localized screenshots plus translated title, subtitle, description, and keywords per locale; one-time pricing, no subscription.
+
 * [App Store Review Guidelines History](https://www.appstorereviewguidelineshistory.com/) - Shape is an app development agency in Copenhagen and Zurich that refers to the App Store Review Guidelines all the time. They have created this website for themselves and their clients to help them spot the changes.
 
 * [App Store Screenshot](https://www.appstorescreenshot.com/) - App Store Screenshot is a simple online tool that lets you generate professional looking screenshots for your app. You can pick a background colour, choose from ten different device images, and add text with custom font and styling before previewing and downloading ready to be upload to the App Store.
