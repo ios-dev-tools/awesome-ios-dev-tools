@@ -201,6 +201,8 @@ Maintained by [iOS Dev Tools](https://iosdev.tools/). We also send a [weekly too
 
 * [Jack](http://apps.chbeer.de/jack) - Jack is a Mac app that makes managing your apps in iTunes Connect easier. It uses the Transporter command line tool to communicate with iTunes Connect, so it is more reliable than using iTunes Connect itself.
 
+* [Keyword Race](https://keywordrace.com) - App Store keyword research for indie iOS developers: see which apps compete for a keyword, where your app ranks, and which keywords you can realistically win. Popularity is estimated from Apple's own search suggestions. Free check without an account; paid is a one-time lifetime payment.
+
 * [Kitemetrics](https://kitemetrics.com/) - Kitemetrics is a tool that optimises Apple Search Ads bids to increase revenue from keywords that lead to actual in-app purchases. It also has Apple Search Ads integration so you can view reports and modify bids directly from Kitemetrics without having to switch platforms.
 
 * [Launchbuddy](https://apps.apple.com/de/app/launchbuddy-plan-app-updates/id1615169630?l=en&mt=12) - LaunchBuddy is a tool that helps you keep track of your projects and releases. It has a free and pro tier with almost all the features included.
